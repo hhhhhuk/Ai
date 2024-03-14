@@ -1,0 +1,18 @@
+.header {
+    width: 100%;
+    justify-content: space-between;
+}
+.header__name {
+    display: flex;
+    justify-content: inline;
+    gap: 10px;
+}
+.name__img {
+    width: 40px;
+    height: 40px;
+    opacity: .8;
+}
+.name__text {
+    font-size: 16px;
+    opacity: .8;
+}
