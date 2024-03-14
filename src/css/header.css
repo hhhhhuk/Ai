@@ -6,13 +6,16 @@
     display: flex;
     justify-content: inline;
     gap: 10px;
+    padding: 5px 5px;
+    background-color: rgb(197, 197, 197);
 }
 .name__img {
+    padding: 5px 5px;
     width: 40px;
     height: 40px;
-    opacity: .8;
 }
 .name__text {
-    font-size: 16px;
+
+    font-size: 20px;
     opacity: .8;
 }

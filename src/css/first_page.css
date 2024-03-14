@@ -1,0 +1,8 @@
+.first_Page {
+    width: 100%;
+}
+.Page__background {
+    width: 100%;
+    filter: brightness(40%);
+    
+}
