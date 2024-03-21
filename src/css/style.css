@@ -1,2 +1,14 @@
 @import url(./header.css);
 @import url(./first_page.css);
+@import url(./Ai-WhatIsIt.css);
+@import url(./naprav.css);
+
+.cont {
+    padding: 0 50px;
+}
+
+* {
+    box-sizing: border-box;
+    z-index: 1;
+}
+

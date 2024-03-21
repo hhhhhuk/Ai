@@ -21,7 +21,37 @@
     box-shadow: 17px 27px 50px 9px rgba(0,0,0,0.75);
     -webkit-box-shadow: 17px 27px 50px 9px rgba(0,0,0,0.75);
     -moz-box-shadow: 17px 27px 50px 9px rgba(0,0,0,0.75);
-
 }
 
+@media (max-width:2560px) {
+    .page__text {
+        font-size: 112px;
+    }
+}
+@media (max-width:1920px) {
+    .page__text {
+        font-size: 70px;
+    }
+}
+@media (max-width:1024px) {
+    .page__text {
+        font-size: 52px;
+    }
+}
+@media (max-width:768px) {
+    .page__text {
+        font-size: 42px;
+    }
+}
+@media (max-width:426px) {
+    .page__text {
+        font-size: 30px;
+    }
+}
 
+@media (max-width:320px) {
+    .page__text {
+        font-size: 25px;
+        padding-left: 4px;
+    }
+}
