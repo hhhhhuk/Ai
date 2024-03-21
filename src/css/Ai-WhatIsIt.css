@@ -4,9 +4,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    -webkit-box-shadow: 3px -3px 39px 12px rgba(34, 60, 80, 0.34) inset;
-    -moz-box-shadow: 3px -3px 39px 12px rgba(34, 60, 80, 0.34) inset;
-    box-shadow: 3px -3px 39px 12px rgba(34, 60, 80, 0.34) inset;
+    box-shadow: -3px -2px 160px -36px rgba(0,0,0,0.75) inset;
+    -webkit-box-shadow: -3px -2px 160px -36px rgba(0,0,0,0.75) inset;
+    -moz-box-shadow: -3px -2px 160px -36px rgba(0,0,0,0.75) inset;
         
 }
 
